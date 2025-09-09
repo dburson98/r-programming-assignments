@@ -16,14 +16,10 @@ myMean_fixed <- function(x) sum(x) / length(x)
 
 Now it fully functional→ [1] 19.25
 
-## Assignment 3 – Analyzing 2016 “Poll” Data in R
+## Assignment 3 – Analyzing 2016 “Poll” Data in R  
 
-#I created a data frame in R with fake poll numbers and calculated summary stats like mean, median, and range.  
-
-#Then I added a column to compare the difference between CBS and ABC polls.  
-
-#Finally, I used ggplot2 to make a bar chart and saved it as an image for my blog.  
-
-
+I created a data frame in R with fake poll numbers and calculated summary stats like mean, median, and range.  
+I added a column to compare the difference between CBS and ABC polls.  
+I used ggplot2 to make a bar chart and saved it as an image for my blog. 
 
 
